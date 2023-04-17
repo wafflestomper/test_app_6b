@@ -1,3 +1,3 @@
 # README
 
-Just seeing how this updates.
+First test repo on Ruby on Rails Course
